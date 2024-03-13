@@ -24,3 +24,11 @@ wysokosc_h = 5
 pole_rombu = bok_b * wysokosc_h
 
 print("Pole koła wynosi: " + str(pole_rombu))
+
+#pole trpezu
+
+bok_c, bok_d, wysokosc_g = 2, 3, 4
+
+pole_trapezu = ((bok_c + bok_d) * wysokosc_g)/2
+
+print("Pole trapezu wynosi: " + str(pole_trapezu))

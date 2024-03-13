@@ -14,3 +14,13 @@ r_promien = 3
 pole_kola =  math.pi* r_promien ** 2
 
 print("Pole koła wynosi: " + str(pole_kola))
+
+#pole rombu
+
+bok_b = 4
+
+wysokosc_h = 5
+
+pole_rombu = bok_b * wysokosc_h
+
+print("Pole koła wynosi: " + str(pole_rombu))
